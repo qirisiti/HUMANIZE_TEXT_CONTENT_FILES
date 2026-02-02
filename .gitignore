@@ -1,0 +1,14 @@
+.env
+
+
+node_modules/
+dist/
+.venv/
+.env/
+
+__pycache__/
+
+*.pdf
+*.doc
+*.docx
+*.txt
